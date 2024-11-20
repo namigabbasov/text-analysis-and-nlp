@@ -3,7 +3,7 @@
 # Overview
 This repository provides step-by-step tutorials on Text Analysis and Natural Language Processing (NLP). It is designed to guide learners and practitioners from foundational concepts to advanced techniques like transformer-based models. Each tutorial includes power point slides, code examples, and practical applications.
 
-## Tutorials Included
+## Topics 
 
 # 1. Text Preprocessing
 - Tokenization
