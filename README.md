@@ -1,7 +1,7 @@
 # Text Analysis and NLP Tutorials [ _Materials will be uploaded_]
 
 # Overview
-This repository provides step-by-step tutorials on Text Analysis and Natural Language Processing (NLP). It is designed to guide learners and practitioners from foundational concepts to advanced techniques like transformer-based models. Each tutorial includes clear explanations, code examples, and practical applications.
+This repository provides step-by-step tutorials on Text Analysis and Natural Language Processing (NLP). It is designed to guide learners and practitioners from foundational concepts to advanced techniques like transformer-based models. Each tutorial includes power point slides, code examples, and practical applications.
 
 ## Tutorials Included
 
